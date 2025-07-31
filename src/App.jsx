@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import TodoList from "./components/TodoList";
 import HabitTracker from "./components/HabitTracker";
 import DailyQuote from "./components/DailyQuote";
-import WeatherWidget from "./components/weatherwidget";
+import WeatherWidget from "./components/WeatherWidget";
 import Notes from "./components/Notes";
 
 function App() {
