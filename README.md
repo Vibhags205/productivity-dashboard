@@ -1,2 +1,7 @@
 # productivity-dashboard
-A simple basic productivity dashboard, containing to-do list, habit trackers, weather widgets, dailyquotes, notes for the day.
+A simple productivity dashboard, containing:
+- ✅ To-Do List
+- 📈 Habit Tracker
+- ☀️ Weather Widget
+- 💬 Daily Quotes
+- 📝 Notes section (with local storage support)
