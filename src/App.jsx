@@ -4,6 +4,7 @@ import HabitTracker from "./components/HabitTracker";
 import DailyQuote from "./components/DailyQuote";
 import WeatherWidget from "./components/WeatherWidget";
 import Notes from "./components/Notes";
+import FriendResponses from './components/FriendResponses';
 
 function App() {
   const [darkMode, setDarkMode] = useState(() => {
@@ -41,6 +42,7 @@ function App() {
           <WeatherWidget />
           {/* Add Notes component */}
           <Notes />
+          <FriendResponses />
         </div>
       </div>
     </div>
